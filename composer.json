@@ -1,0 +1,21 @@
+{
+    "name": "hzz/hzz-interface",
+    "description": "Hzz Interface",
+    "type": "library",
+    "license": "MIT",
+    "autoload" : {
+        "psr-4" : {
+            "Hzz\\HzzInterface\\" : "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "贺兆兆",
+            "email": "he.zhaozhao@boguan360.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php" : ">=7.4"
+    }
+}
