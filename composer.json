@@ -1,6 +1,6 @@
 {
-    "name": "hzz/hzz-interface",
-    "description": "Hzz Interface",
+    "name": "hkk/hkk-interface",
+    "description": "Hkk Interface",
     "type": "library",
     "license": "MIT",
     "autoload" : {
